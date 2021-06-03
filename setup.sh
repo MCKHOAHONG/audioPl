@@ -94,7 +94,7 @@ echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
 echo -e "\e[1;31m       Whatsapp: https://bit.do/speedxgit \e[0m"
 echo -e "\e[1;33m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
-echo " "
+echo -e "\e[;32m    Update By AudioPl Master"
 exit 0
 else
 echo -e "\e[4;32m Invalid Input !!! \e[0m"
